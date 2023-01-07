@@ -30,14 +30,22 @@ asierAlcaide:
   - Java
   - Python
   - JavaScript
+  - Scala
+ 
   values: 
   - Clean code
+  - Ask always why
   - Do things well
   - Don't run
   - Take some breaks
   - Enjoy every moment
 
   toolsAndFrameworks:
+  - Hdfs
+  - Spark
+  - Cloud Technologies
+  - Hive
+  - Impala
   - Vertx Java
   - React
   - Flutter
@@ -60,7 +68,7 @@ asierAlcaide:
   portfolioLink: 'https://www.asieralcaide.com/'
   username: 'asik03'
 ```
-I'm Asier Alcaide, a Software Engineer from Madrid (Spain) and based in the planet Earth (for the moment living around Europe). Touching multiple stuff: IA/ML algorithms, highly scalable Big Data services, FinTech apps, disruptive payment systems and websites like this one.
+I'm Asier Alcaide, a Software Engineer from Madrid (Spain) and living around Europe. Touching multiple stuff: IA/ML algorithms, highly scalable Big Data services, FinTech apps, disruptive payment systems and websites like this one.
 
 While I was finishing my studies of Computer Sciences and Business Management in
 <a href="https://www.uc3m.es/home">Universidad Carlos III de Madrid</a>
